@@ -1,1 +1,1 @@
- https://aquibshaikh313.github.io/newsite/
+ https://aquibshaikh313.github.io/newsite/Carousel.html
